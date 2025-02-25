@@ -1,5 +1,5 @@
 # Kodilla_m01"
-"1st module tasks"
+1st module tasks
 
 ### Zadanie 1.2
 Zadanie: tworzymy raport
@@ -35,36 +35,36 @@ Zadanie: gwiazdkowe rysunki
 Czas na Ciebie. Z wykorzystaniem pętli i drukowania (w technicznym aspekcie) oraz spacji i gwiazdek (jeśli chodzi o tekst) narysuj następujące wzorki:
 Nr 1
 
-\* * * * * * * * * *
-\ * * * * * * * * * *
-\* * * * * * * * * *
-\ * * * * * * * * * *
-\* * * * * * * * * *
-\ * * * * * * * * * *
-\* * * * * * * * * *
-\ * * * * * * * * * *
-\* * * * * * * * * *
-\ * * * * * * * * * *
+\* * * * * * * * * *<br>
+\ * * * * * * * * * *<br>
+\* * * * * * * * * *<br>
+\ * * * * * * * * * *<br>
+\* * * * * * * * * *<br>
+\ * * * * * * * * * *<br>
+\* * * * * * * * * *<br>
+\ * * * * * * * * * *<br>
+\* * * * * * * * * *<br>
+\ * * * * * * * * * *<br>
 
 Nr 2
 
-\**
-\**
-\****
-\****
-\******
-\******
-\********
-\********
+\**<br>
+\**<br>
+\****<br>
+\****<br>
+\******<br>
+\******<br>
+\********<br>
+\********<br>
 
 Nr 3
 
-\******
-\*****
-\****
-\***
-\**
-\*
+\******<br>
+\*****<br>
+\****<br>
+\***<br>
+\**<br>
+\*<br>
 
 
 
