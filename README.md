@@ -35,17 +35,6 @@ Zadanie: gwiazdkowe rysunki
 Czas na Ciebie. Z wykorzystaniem pętli i drukowania (w technicznym aspekcie) oraz spacji i gwiazdek (jeśli chodzi o tekst) narysuj następujące wzorki:<br>
 Nr 1
 
-\* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
-\* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
-\* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
-\* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
-\* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
-
 <pre>
 * * * * * * * * * *
  * * * * * * * * * *
