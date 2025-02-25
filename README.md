@@ -36,15 +36,15 @@ Czas na Ciebie. Z wykorzystaniem pętli i drukowania (w technicznym aspekcie) or
 Nr 1
 
 \* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
+` \* \* \* \* \* \* \* \* \* \*<br>
 \* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
+` \* \* \* \* \* \* \* \* \* \*<br>
 \* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
+` \* \* \* \* \* \* \* \* \* \*<br>
 \* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
+` \* \* \* \* \* \* \* \* \* \*<br>
 \* \* \* \* \* \* \* \* \* \*<br>
- \* \* \* \* \* \* \* \* \* \*<br>
+` \* \* \* \* \* \* \* \* \* \*<br>
 
 Nr 2
 
@@ -118,7 +118,8 @@ number_of_o = 0<br>
 number_of_u = 0<br>
 number_of_y = 0<br>
 
-Powodzenia.
+Powodzenia.<br>
+
 Ćwiczenie 1
 
 Znajdź liczbę poszczególnych samogłosek Do zmiennej text przypisano kultowy fragment z filmu "Żywot Briana" autorstwa ekipy Monty Pythona.<br>
