@@ -1,2 +1,2 @@
-# Kodilla_m01_tasks
-Module 1 tasks
+# Kodilla_m01
+# 1st module tasks
