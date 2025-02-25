@@ -12,6 +12,7 @@ W Twoim koszyku znalazł się kilogram każdego z tych serów: roquefort (12,50 
 Stwórz odpowiednie zmienne, zarówno dla produktów, jak i cen. Umieść wszystko w jednym tekście i użyj odpowiedniego formatowania. Pamiętaj, że ceny w Polsce zwykło się podawać z dwoma miejscami dziesiętnymi po przecinku (w Pythonie, zgodnie z anglosaską tradycją, używamy kropki zamiast przecinka, więc w kodzie napiszemy 2.49, a nie 2,49).
 
 
+
 ### Zadanie 1.3
 Zadanie: poszerzony raport
 
@@ -25,6 +26,7 @@ Produkt, masa w kg, cena
 Produkt, masa w kg, cena
 ...
 Suma zł:
+
 
 
 ### Zadanie 1.4
@@ -65,11 +67,13 @@ Nr 3
 *
 
 
+
 ### Zadanie 1.5
 Ćwiczenie
 
 Wracamy do zakupów. Tym razem, szef wysyła Cię ponownie do sklepu i mówi, że masz kupić 1 kg sera, ale stawia pewne warunki: – Kup edam, no, chyba że nie będzie, wtedy brie. Ostatecznie starą dobrą goudę.
 Jak przekuć taki algorytm w kod, korzystając z wyrażeń warunkowych? Spróbuj samodzielnie.
+
 
 
 ### Zadanie 1.6
@@ -79,6 +83,7 @@ Czas na akcję z Twojej strony. Mając wiedzę o liczbach, operacjach i pętlach
 Z zakresu liczb od 1 do 100 wypisz wszystkie, które są podzielne przez 3.
 Spróbuj zrobić to na dwa sposoby. Użyj pętli for, jak i pętli while. Pisząc pętlę while, wykorzystaj polecenie break.
 Jeśli chodzi o zadanie, podejdź do niego systemowo. Najpierw zastanów się nad tym, jak zadeklarować pętlę. Jakiej kolekcji potrzebujesz? Przed pisaniem właściwego ciała pętli zobacz czy masz poprawnie zadeklarowany początek i koniec, np. wydrukuj wszystkie elementy.
+
 
 
 ### Zadanie 1.7
